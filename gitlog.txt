@@ -1,3 +1,6 @@
+I, Vincent Nguyen, certify that I participated equitably in the creation of assignment L09P, dated 2025.
+I, Austin Truhn, certify that I participated equitably in the creation of this assignment L09P, dated 2025.
+
 commit 4c4fcf1e7460639881ab8d257c1d892e5a486fe6
 Author: Vincent Nguyen <vnguyen2@mines.edu>
 Date:   Wed Oct 1 14:30:43 2025 -0600
