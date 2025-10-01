@@ -1,0 +1,5 @@
+commit 76a7cbaccbbbce41e6a8d5f0ae947abcd608bae6
+Author: Austin Truhn <austin_truhn@mines.edu>
+Date:   Wed Oct 1 13:42:02 2025 -0600
+
+    Added .gitignore and src to repo
